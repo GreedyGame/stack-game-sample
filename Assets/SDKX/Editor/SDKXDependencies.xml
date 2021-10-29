@@ -1,0 +1,13 @@
+<dependencies>
+  <androidPackages>
+    <androidPackage 
+      spec="com.google.android.gms:play-services-ads:20.3.0"/>
+        <androidPackage   spec="com.greedygame.sdkx:core:0.0.91"/>
+        <androidPackage   spec="androidx.constraintlayout:constraintlayout:1.1.3"/>
+        <androidPackage  spec="androidx.palette:palette:1.0.0"/>
+        <androidPackage  spec="com.squareup.moshi:moshi:1.12.0"/>
+        <androidPackage  spec="com.squareup.moshi:moshi-adapters:1.12.0"/>
+        <androidPackage  spec="com.google.android.gms:play-services-location:17.0.0">
+    </androidPackage>
+  </androidPackages>
+</dependencies>
